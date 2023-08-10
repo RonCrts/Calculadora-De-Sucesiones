@@ -5,7 +5,7 @@ Una sucesión (o progresión) es un conjunto de números ordenados. Cada número
 
 Una sucesión aritmética es una sucesión de números tales que la diferencia de dos términos consecutivos es constante. Por ejemplo, la sucesión de los números naturales.
 
-# a 0,a 1​,a 2,…,an=a0+n⋅d
+# a 0,a1​,a2,…,an=a0+n⋅d
 
 donde a0 es el primer término, d es la diferencia común y n es el número de términos
 
